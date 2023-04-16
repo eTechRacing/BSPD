@@ -3,7 +3,11 @@
 This repository contains the hardware design files for the Brake System Plausibility Device (BSPD) used in e-Tech Racing's electric vehicle.
 
 ## Purpose
-The BSPD is a non-programmable circuit that ensures the safe operation of the vehicle during hard braking events. The BSPD must open the shutdown circuit when hard braking occurs, if more than 5kW of power is being delivered to the motors.
+The BSPD is a non-programmable circuit that ensures the safe operation of the vehicle during hard braking events. The BSPD must open the shutdown circuit when hard braking occurs, if more than 5kW of power is being delivered to the motors for more than 500ms.
+
+### ⚠️Warning⚠️
+Please check for changes in ruling. This BSPD is designed following [FSG Rules from 2023](https://www.formulastudent.de/fileadmin/user_upload/all/2023/rules/FS-Rules_2023_v1.1.pdf).
+This version of the BSPD is normally closed when not powered. This could be a potential rules issue, so consider redesigning the relay part for this to be solved.
 
 ## Additional hardware
 For the BSPD to work, two sensors and a 20-30VDC supply are needed. Here are the ones used in ETR-08:
