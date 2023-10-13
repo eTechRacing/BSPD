@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SC_out Pin=TP6-3
+Removed Pin From Net: NetName=NetR19_1 Pin=U3-8
+Removed Pin From Net: NetName=Reset Pin=U3-9
+Removed Pin From Net: NetName=SC_out Pin=X1-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Added Pin To Net: NetName=Reset Pin=U3-8
+Added Pin To Net: NetName=NetR19_1 Pin=U3-9
+Added Pin To Net: NetName=SC_out Pin=X1-10
