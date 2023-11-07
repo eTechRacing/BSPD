@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQBXIDFG
 
 [Document14]
 DocumentPath=..\..\..\CommonFiles\Altium_Libraries_e-Tech_Racing\Schematics\e-Tech_Racing.SchLib
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TSRBBLSC
 
 [Document15]
 DocumentPath=..\..\..\CommonFiles\Altium_Libraries_e-Tech_Racing\Schematics\Filter components.SchLib
@@ -301,7 +301,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LNRHNRHB
 
 [Document16]
 DocumentPath=..\..\..\CommonFiles\Altium_Libraries_e-Tech_Racing\Schematics\Integrated circuits.SchLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QOXOPYNW
 
 [Document17]
 DocumentPath=..\..\..\CommonFiles\Altium_Libraries_e-Tech_Racing\Schematics\Passives.SchLib
@@ -352,7 +352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HAZZYXZW
 
 [Document19]
 DocumentPath=..\..\..\CommonFiles\Altium_Libraries_e-Tech_Racing\Schematics\Sensors.SchLib
@@ -369,43 +369,103 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IARDZSOA
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for BSPD\NC Drill\BSPD.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GM
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for BSPD\NC Drill\BSPD.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for BSPD\Gerber\BSPD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for BSPD\ExportSTEP\BSPD.step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for BSPD\NC Drill\BSPD.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Design Rule Check - BSPD.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company
-Value=e-Tech Racing
+Name=Version
+Value=3.0
 
 [Parameter2]
-Name=Department
-Value=PCBs
-
-[Parameter3]
-Name=DesignedByURL
-Value=e-techracing.es
-
-[Parameter4]
-Name=DesignerMail
-Value=dredondovinolo@gmail.com
-
-[Parameter5]
-Name=DesignerName
-Value=David Redondo
-
-[Parameter6]
-Name=Project
-Value=BSPD
-
-[Parameter7]
 Name=ReviewerName
 Value=David Redondo
 
+[Parameter3]
+Name=Project
+Value=BSPD
+
+[Parameter4]
+Name=DesignerName
+Value=Guillem Ropero
+
+[Parameter5]
+Name=DesignerMail
+Value=guillemroper@gmail.com
+
+[Parameter6]
+Name=DesignedByURL
+Value=e-techracing.es
+
+[Parameter7]
+Name=Department
+Value=PCBs
+
 [Parameter8]
-Name=Version
-Value=2.0
+Name=Company
+Value=e-Tech Racing
 
 [Configuration1]
 Name=Sources
@@ -625,6 +685,18 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -768,6 +840,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1118,6 +1196,17 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
 
 [Difference Levels]
 Type1=1
@@ -1188,6 +1277,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1199,7 +1294,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1316,6 +1411,30 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
