@@ -1,0 +1,10 @@
+Added Component: Designator=R9(R10K-VTR_SMD)
+Added Component: Designator=R10(R10K-VTR_SMD)
+Added Pin To Net: NetName=+12 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=Hall_trig_lvl Pin=R9-3
+Added Pin To Net: NetName=+12 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=Brake_trig_lvl Pin=R10-3
+Added Member To Class: ClassName=BSPD Member=Component R9 10kR
+Added Member To Class: ClassName=BSPD Member=Component R10 10kR

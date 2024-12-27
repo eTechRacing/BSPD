@@ -371,6 +371,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IARDZSOA
 
+[Document20]
+DocumentPath=BSPD_2025.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CDKASMOU
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BSPD\NC Drill\BSPD.DRR
 DItemRevisionGUID=
@@ -435,37 +452,41 @@ DItemRevisionGUID=
 DocumentPath=Design Rule Check - BSPD.html
 DItemRevisionGUID=
 
+[GeneratedDocument17]
+DocumentPath=Design Rule Check - BSPD_2025.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Version
-Value=3.0
+Name=Company
+Value=e-Tech Racing
 
 [Parameter2]
-Name=ReviewerName
-Value=David Redondo
-
-[Parameter3]
-Name=Project
-Value=BSPD
-
-[Parameter4]
-Name=DesignerName
-Value=Guillem Ropero
-
-[Parameter5]
-Name=DesignerMail
-Value=guillemroper@gmail.com
-
-[Parameter6]
-Name=DesignedByURL
-Value=e-techracing.es
-
-[Parameter7]
 Name=Department
 Value=PCBs
 
+[Parameter3]
+Name=DesignedByURL
+Value=e-techracing.es
+
+[Parameter4]
+Name=DesignerMail
+Value=guillemroper@gmail.com
+
+[Parameter5]
+Name=DesignerName
+Value=Guillem Ropero
+
+[Parameter6]
+Name=Project
+Value=BSPD
+
+[Parameter7]
+Name=ReviewerName
+Value=David Redondo
+
 [Parameter8]
-Name=Company
-Value=e-Tech Racing
+Name=Version
+Value=3.0
 
 [Configuration1]
 Name=Sources

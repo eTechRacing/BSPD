@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+12 Pin=U1-3
+Removed Member From Class: ClassName=BSPD Member=U1
+Added Component: Designator=DCDC1(DCDC_Magi3c)
+Add component (AddParameter): Name = "Category"; Value = "Board Mount Modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/173951236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "173951236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3,29000, 10=2,99100, 20=2,81300, 30=2,63600, 43=2,39907 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-173951236-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=DCDC1-1
+Added Pin To Net: NetName=GND Pin=DCDC1-2
+Added Pin To Net: NetName=+12 Pin=DCDC1-3
+Added Member To Class: ClassName=BSPD Member=Component DCDC1 173951236

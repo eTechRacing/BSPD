@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R9 Old Footprint=R10k-VTR New Footprint=R20K-Trimmer
+Change Component Footprint: Designator=R10 Old Footprint=R10k-VTR New Footprint=R20K-Trimmer
+Change Component Comment : Designator=R9 Old Comment=3296W-1-103LF New Comment=20kR
+Change Component Comment : Designator=R10 Old Comment=3296W-1-103LF New Comment=20kR
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R10k-VTR"; UniqueID = "\QRFNCVVD" ("\QRFNCVVD")
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R10k-VTR"; UniqueID = "\DXJUVPGI" ("\DXJUVPGI")
