@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetD6_A Pin=X1-1
+Removed Pin From Net: NetName=+12 Pin=X1-12
+Change Component Designator: OldDesignator=B_Trig NewDesignator=BRAKE_Trig
+Added Pin To Net: NetName=+12 Pin=X1-1
+Added Pin To Net: NetName=NetD6_A Pin=X1-12
+Added Member To Class: ClassName=BSPD Member=Component BRAKE_Trig TestPoint
+Added Room: Name=BSPD

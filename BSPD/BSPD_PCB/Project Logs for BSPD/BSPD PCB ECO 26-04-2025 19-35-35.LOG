@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetQ5_G Pin=TP24-1
+Removed Pin From Net: NetName=NetD6_A Pin=X1-1
+Removed Pin From Net: NetName=+12 Pin=X1-12
+Removed Member From Class: ClassName=BSPD Member=TP24
+Change Component Designator: OldDesignator=TP1 NewDesignator=LV+
+Change Component Designator: OldDesignator=TP2 NewDesignator=GND
+Change Component Designator: OldDesignator=TP3 NewDesignator=BPS
+Change Component Designator: OldDesignator=TP4 NewDesignator=HALL
+Change Component Designator: OldDesignator=TP5 NewDesignator=SC_IN
+Change Component Designator: OldDesignator=TP6 NewDesignator=SC_OUT
+Change Component Designator: OldDesignator=TP7 NewDesignator=DCDC_IN
+Change Component Designator: OldDesignator=TP8 NewDesignator=12V
+Change Component Designator: OldDesignator=TP9 NewDesignator=SCS_Ref
+Change Component Designator: OldDesignator=TP10 NewDesignator=HALL_Ref
+Change Component Designator: OldDesignator=TP11 NewDesignator=BPS_Ref
+Change Component Designator: OldDesignator=TP12 NewDesignator=HALL_IN
+Change Component Designator: OldDesignator=TP13 NewDesignator=BPS_IN
+Change Component Designator: OldDesignator=TP14 NewDesignator=HALL_Trig
+Change Component Designator: OldDesignator=TP15 NewDesignator=BRAKE_Trig
+Change Component Designator: OldDesignator=TP17 NewDesignator=IMPL_DRAIN
+Change Component Designator: OldDesignator=TP18 NewDesignator=IMPL
+Change Component Designator: OldDesignator=TP19 NewDesignator=IMPL_Ref
+Change Component Designator: OldDesignator=TP20 NewDesignator=HALT
+Change Component Designator: OldDesignator=TP21 NewDesignator=RST
+Change Component Designator: OldDesignator=TP22 NewDesignator=RST_Ref
+Change Component Designator: OldDesignator=TP23 NewDesignator=SC_CLOSE
+Change Component Designator: OldDesignator=TP26 NewDesignator=RELAY_COIL
+Change Component Designator: OldDesignator=TP27 NewDesignator=PWR_RST
+Added Pin To Net: NetName=+12 Pin=X1-1
+Added Pin To Net: NetName=NetD6_A Pin=X1-12
+Change Net Name : Old Net Name=NetQ1_D New Net Name=NetIMPL_DRAIN_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetHALL_IN_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetBPS_IN_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetIMPL_Ref_1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
